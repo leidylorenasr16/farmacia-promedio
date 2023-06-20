@@ -33,7 +33,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ##### Aproximación Seudocódigo
 
 `Inicio`  
-`    Caracteres: identificaciones[50], nombres[50], sucursales[50]`  
+`   Caracteres: identificaciones[50], nombres[50], sucursales[50]`  
 `	Real: comprauno[50], comprados[50], compratres[50]`  
 `	Caracteres: identificacion, nombre, sucursal`  
 `	Entero: numClientes, i`  
@@ -51,7 +51,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 `	Asignar: compra1`  
 `	Imprimir: ‘Digite la compra dos del cliente’`  
 `	Asignar: compra2`  
-`    Imprimir: ‘Digite la compra tres del cliente’`  
+`   Imprimir: ‘Digite la compra tres del cliente’`  
 `	Asignar: compra3`  
 `	identificaciones[i] <- identificacion`  
 `	nombres[i] <- nombre`  
