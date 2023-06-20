@@ -32,8 +32,8 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 ##### Aproximación Seudocódigo
 
-Inicio
-	Caracteres: identificaciones[50], nombres[50], sucursales[50]
+Inicio  
+    Caracteres: identificaciones[50], nombres[50], sucursales[50]
 	Real: comprauno[50], comprados[50], compratres[50]
 	Caracteres: identificacion, nombre, sucursal
 	Entero: numClientes, i
