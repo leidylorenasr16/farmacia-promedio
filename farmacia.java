@@ -28,22 +28,16 @@ public class farmacia
         for(i=0; i < numClientes; i++){
             System.out.println("Digite la identificacion del cliente");
             identificacion = scn.next();
-            System.out.println(identificacion);
             System.out.println("Digite el nombre del cliente");
             nombre = scn.next();
-            System.out.println(nombre);
             System.out.println("Digite la sucursal del cliente");
             sucursal = scn.next();
-            System.out.println(sucursal);
             System.out.println("Digite la compra uno del clientes");
             compra1 = scn.nextInt();
-            System.out.println(compra1);
             System.out.println("Digite la compra dos del clientes");
             compra2 = scn.nextInt();
-            System.out.println(compra2);
             System.out.println("Digite la compra tres del clientes");
             compra3 = scn.nextInt();
-            System.out.println(compra3);
             
             identificaciones[i] = identificacion;
             nombres[i] = nombre;
